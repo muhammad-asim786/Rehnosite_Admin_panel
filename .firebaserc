@@ -1,0 +1,12 @@
+{
+  "projects": {
+    "default": "rhsite-web",
+    "staging": "rhsite-web",
+    "y": "rhsite-web",
+    "-P staging": "rhsite-web",
+    "rhenosite": "rhsite-web",
+    "web": "rhsite-web"
+  },
+  "targets": {},
+  "etags": {}
+}
